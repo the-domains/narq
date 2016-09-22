@@ -17,6 +17,10 @@ author:
   url: 'http://narq.net'
   email: ian SPLAT narq.net
 name: Narq.net
+navigation:
+  - name: Dog Photography
+    url: 'http://dogstarphoto.co.uk'
+    type: external
 title: Ian Morrison's Narq.net
 description: 'Reviews, Videos, Click-Bait, and Awesome Opinions.'
 purpose:
