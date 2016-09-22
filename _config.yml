@@ -18,11 +18,11 @@ author:
   email: ian SPLAT narq.net
 name: Narq.net
 navigation:
-  - name: Dog Photography
-    url: 'http://dogstarphoto.co.uk'
-    type: external
   - name: Music
     url: 'https://soundcloud.com/narq'
+    type: external
+  - name: Dog Photography
+    url: 'http://dogstarphoto.co.uk'
     type: external
   - name: Photography
     url: 'https://SiriusPhoto.net'
