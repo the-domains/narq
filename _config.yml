@@ -32,7 +32,7 @@ description: 'Reviews, Videos, Click-Bait, and Awesome Opinions.'
 purpose:
   - type: external
     url: 'https://facebook.com/narq.net'
-    label: 'https://facebook.com/narq.net'
+    label: Like on Facebook
   - type: external
     url: 'https://twitter.com/narq'
     label: Follow on Twitter
