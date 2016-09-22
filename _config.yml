@@ -1,0 +1,23 @@
+typography_spectrum: 0.5436457351315767
+color:
+  brandStrength: 0.043584679486230016
+  lightness: 0.880773967364803
+  saturation: 0.2558220650535077
+  rhythmicContrast: 0.5615032117348164
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+github: true
+layout_spectrum: 0.7703084936365485
+author:
+  name: Ian Morrison
+  url: 'http://narq.net'
+name: Narq.net
+title: 'Reviews, Videos, Click-Bait, and Awesome Opinions.'
+purpose:
+  - type: external
+    url: 'http://facebook.com/narq.net'
+    label: Follow on Facebook
