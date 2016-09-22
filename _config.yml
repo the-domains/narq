@@ -31,8 +31,8 @@ title: Ian Morrison's Narq.net
 description: 'Reviews, Videos, Click-Bait, and Awesome Opinions.'
 purpose:
   - type: external
-    url: 'http://facebook.com/narq.net'
-    label: Follow on Facebook
+    url: 'https://facebook.com/narq.net'
+    label: 'https://facebook.com/narq.net'
   - type: external
     url: 'https://twitter.com/narq'
     label: Follow on Twitter
