@@ -12,6 +12,9 @@ color:
     - '#04756F'
 github: true
 layout_spectrum: 0.7703084936365485
+analytics:
+  google: UA-37934539-1
+  facebook: '982448711860630'
 author:
   name: Narq.net
   url: 'http://narq.net'
