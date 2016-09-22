@@ -24,6 +24,9 @@ navigation:
   - name: Music
     url: 'https://soundcloud.com/narq'
     type: external
+  - name: Photography
+    url: 'https://SiriusPhoto.net'
+    type: external
 title: Ian Morrison's Narq.net
 description: 'Reviews, Videos, Click-Bait, and Awesome Opinions.'
 purpose:
