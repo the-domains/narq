@@ -22,3 +22,6 @@ purpose:
   - type: external
     url: 'http://facebook.com/narq.net'
     label: Follow on Facebook
+  - type: external
+    url: 'https://twitter.com/narq'
+    label: Follow on Twitter
