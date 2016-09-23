@@ -27,12 +27,12 @@ app_links: []
 isBasedOnUrl: >-
   https://www.inverse.com/article/14967-alan-moore-now-believes-the-killing-joke-was-melodramatic-not-interesting
 title: Alan Moore Has A Lot To Say About 'The Killing Joke'
-datePublished: '2016-09-23T19:37:47.200Z'
-dateModified: '2016-09-23T19:37:37.549Z'
+datePublished: '2016-09-23T19:40:31.325Z'
+dateModified: '2016-09-23T19:40:30.549Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-09-23-alan-moore-has-a-lot-to-say-about-the-killing-joke.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
