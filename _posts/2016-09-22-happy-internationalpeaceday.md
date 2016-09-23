@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-22T22:52:55.198Z'
+datePublished: '2016-09-23T23:23:50.572Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-22T22:52:34.376Z'
+dateModified: '2016-09-23T23:23:50.172Z'
 title: 'Happy #InternationalPeaceDay '
 publisher: {}
 description: Intergalactic public relations
-starred: false
 sourcePath: _posts/2016-09-22-happy-internationalpeaceday.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
