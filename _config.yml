@@ -27,9 +27,6 @@ navigation:
   - name: Dog Photography
     url: 'http://dogstarphoto.co.uk'
     type: external
-  - name: Photography
-    url: 'https://SiriusPhoto.net'
-    type: external
 title: A place where Ian Morrison puts stuff
 description: 'Reviews, Videos, Click-Bait, and Awesome Opinions.'
 purpose:
