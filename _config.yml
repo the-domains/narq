@@ -1,4 +1,3 @@
-layout_spectrum: 0.6809396946337074
 typography_spectrum: 0.5183368751313537
 color:
   brandStrength: 0.08236217661760747
@@ -12,6 +11,7 @@ color:
     - '#4D4D4D'
     - '#333333'
 github: true
+layout_spectrum: 0.6809396946337074
 analytics:
   google: UA-37934539-1
   facebook: '982448711860630'
@@ -30,7 +30,7 @@ navigation:
   - name: Photography
     url: 'https://SiriusPhoto.net'
     type: external
-title: Ian Morrison's Narq.net
+title: A place where Ian Morrison puts stuff
 description: 'Reviews, Videos, Click-Bait, and Awesome Opinions.'
 purpose:
   - type: external
