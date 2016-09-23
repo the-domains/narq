@@ -24,7 +24,7 @@ navigation:
   - name: Music
     url: 'https://soundcloud.com/narq'
     type: external
-  - name: Dog Photography
+  - name: Dogs
     url: 'http://dogstarphoto.co.uk'
     type: external
   - name: Photography
