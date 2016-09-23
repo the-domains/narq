@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-23T02:35:37.846Z'
+datePublished: '2016-09-23T02:39:10.638Z'
+sourcePath: _posts/2016-09-23-between-two-ferns-with-zach-galifianakis-hillary-clinton.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-23T02:35:25.533Z'
+dateModified: '2016-09-23T02:39:10.157Z'
 title: 'Between Two Ferns With Zach Galifianakis: Hillary Clinton'
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-09-23-between-two-ferns-with-zach-galifianakis-hillary-clinton.md
 _type: Blurb
 
 ---
