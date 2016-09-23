@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-23T19:40:39.530Z'
+datePublished: '2016-09-23T19:42:57.306Z'
 sourcePath: _posts/2016-09-23-maculate-or-rick-and-morty-get-schwifty-andromulus-remix.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=n4Xp6g-_UUw'
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/DJMaculate'
     avatar: {}
 via: {}
-dateModified: '2016-09-23T19:40:39.256Z'
+dateModified: '2016-09-23T19:42:56.541Z'
 title: Rick & Morty - Get Schwifty (Andromulus Remix)
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=n4Xp6g-_UUw&feature=applinks'
