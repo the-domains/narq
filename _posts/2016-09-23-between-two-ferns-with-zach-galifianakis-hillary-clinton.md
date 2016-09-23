@@ -58,8 +58,8 @@ app_links:
 isBasedOnUrl: >-
   http://www.funnyordie.com/videos/b2fc974d1d/between-two-ferns-with-zach-galifianakis-hillary-clinton
 title: ''
-datePublished: '2016-09-23T19:52:35.769Z'
-dateModified: '2016-09-23T02:29:55.891Z'
+datePublished: '2016-09-23T19:52:45.794Z'
+dateModified: '2016-09-23T19:52:45.409Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-09-23-between-two-ferns-with-zach-galifianakis-hillary-clinton.md
